@@ -1,0 +1,15 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	font-family: 'Josefin Sans', sans-serif;
+	box-sizing:border-box ;
+}
+.carousel .slide {
+    width: 100%;
+    height: 90vh;
+  }
+section div .container-fluid .row .card
+{
+	width:300px!important;
+}
